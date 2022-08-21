@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a student now
 - 📫 My Email: emerywan#gmail.com
-- 🌐 My website: [www.letout.cn](https://www.letout.cn)
-- 🤔 My Blog: [blog.letout.cn](https://blog.letout.cn)
+- 🌐 My Website: [emery.letout.cn](https://blog.letout.cn)
+- 🤔 My Blog: [www.letout.cn](https://www.letout.cn)
 
 
 ### I'm working on:

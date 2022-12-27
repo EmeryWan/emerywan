@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### I'm working on:
 
-[Ubuntu 简明指南](https://github.com/EmeryWan/ubuntu-workstation-guide)：[ubuntu.letout.cn](https://ubuntu.letout.cn)
+[Ubuntu 简明指南](https://github.com/EmeryWan/ubuntu-workstation-guide) ：[ubuntu.letout.cn](https://ubuntu.letout.cn)
 
-    使用 Ubuntu 作为日常 工作 🧑🏻‍💻 娱乐 🍿 的系统
+使用 Ubuntu 作为日常 工作 🧑🏻‍💻 娱乐 🍿 的系统
 

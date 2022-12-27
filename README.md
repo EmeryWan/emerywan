@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 
 - 📫 邮箱: emerywan#gmail.com
-- 🌐 主页: [emery.letout.cn](https://emery.letout.cn)
-- 🤔 博客: [www.letout.cn](https://www.letout.cn)
+- 🌐 主页: [https://emery.letout.cn](https://emery.letout.cn)
+- 🤔 博客: [https://www.letout.cn](https://www.letout.cn)
 
 
 ### I'm working on:
 
-1. [Ubuntu 简明指南](https://ubuntu.letout.cn)：[ubuntu.letout.cn](https://ubuntu.letout.cn)
+[Ubuntu 简明指南](https://github.com/EmeryWan/ubuntu-workstation-guide)：[ubuntu.letout.cn](https://ubuntu.letout.cn)
 
     使用 Ubuntu 作为日常 工作 🧑🏻‍💻 娱乐 🍿 的系统
 
-2. [NLP in action](https://nlp.letout.cn)：[nlp.letout.cn](https://nlp.letout.cn)
-
-    🚆 入门自然语言处理（最近事情太多了，暂时实在是没时间，这个只能先🕊️🕊️，画图整理要太多时间，慢慢弄）

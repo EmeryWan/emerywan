@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 使用 Ubuntu 作为日常 工作 🧑🏻‍💻 娱乐 🍿 的系统
 
+
+[NLP in action](https://github.com/EmeryWan/nlp-in-action) : [nlp.letout.cn](https://nlp.letout.cn)
+
+🚀 入门自然语言处理
